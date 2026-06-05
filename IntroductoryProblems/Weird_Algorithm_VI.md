@@ -11,9 +11,7 @@ Thuật toán tiếp tục lặp lại quá trình này cho đến khi `n` bằn
 
 Ví dụ, với `n = 3`, dãy giá trị thu được là:
 
-\[
-3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rightarrow 2 \rightarrow 1
-\]
+$$3 \rightarrow 10 \rightarrow 5 \rightarrow 16 \rightarrow 8 \rightarrow 4 \rightarrow 2 \rightarrow 1$$
 
 Nhiệm vụ của bạn là mô phỏng quá trình thực hiện thuật toán với giá trị `n` đã cho.
 
@@ -27,7 +25,7 @@ Nhiệm vụ của bạn là mô phỏng quá trình thực hiện thuật toán
 
 ## Ràng buộc
 
-- \(1 \le n \le 10^6\)
+- $1 \le n \le 10^6$
 
 ## Ví dụ
 
