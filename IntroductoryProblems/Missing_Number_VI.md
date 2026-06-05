@@ -17,7 +17,7 @@ Nhiệm vụ của bạn là tìm ra số còn thiếu đó.
 
 ## Ràng buộc
 
-- \(2 \le n \le 2 \cdot 10^5\)
+- $2 \le n \le 2 \cdot 10^5$
 
 ## Ví dụ
 
