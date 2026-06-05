@@ -17,7 +17,7 @@ Nhiệm vụ của bạn là tìm độ dài của đoạn gồm các ký tự g
 
 ## Ràng buộc
 
-- \(1 \le n \le 10^6\)
+- $1 \le n \le 1 \cdot 10^6$
 
 ## Ví dụ
 
