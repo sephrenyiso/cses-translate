@@ -2,7 +2,7 @@
 
 ## Đề bài
 
-Bạn được cho tất cả các số từ `1, 2, \ldots, n`, ngoại trừ đúng một số bị thiếu.
+Bạn được cho tất cả các số từ $1, 2, \ldots, n$, ngoại trừ đúng một số bị thiếu.
 
 Nhiệm vụ của bạn là tìm ra số còn thiếu đó.
 
